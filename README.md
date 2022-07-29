@@ -1,7 +1,7 @@
 ### ✨ choring0989 (Lena) ✨
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCift4YAY5UVNbLTfjeg4hSA?style=social)
-![Twitter URL](https://img.shields.io/twitter/url?label=tistory%20Blog&logo=Micro.blog&style=social&url=https%3A%2F%2Fchoring0989.tistory.com%2F)
+![Twitter URL](https://img.shields.io/twitter/url?label=tistory%20Blog&logo=Micro.blog&style=social&url=https://choring0989.tistory.com/)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/choring0989/pangGirl?label=baking%20bread%21&logo=CakePHP&logoColor=%2361db5e&style=social)
 
 <hr>
